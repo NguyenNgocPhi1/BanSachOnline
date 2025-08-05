@@ -179,8 +179,8 @@ $name ="Điện thoai";
 			<div class="row">
 				<div class="col-md-4 col-md-offset-8 ">
                 
-					<center><p style="color:red"><i class="fa fa-exclamation" aria-hidden="true"> Bạn cần đăng nhập để đặt hàng</i></p>
-                    <a href="index.php" class="btn btn-1" style="margin-left:-76px">Chọn những sách khác</a></center>
+					<center><p style="color:red;margin-right: 57px;"><i class="fa fa-exclamation" aria-hidden="true"> Bạn cần đăng nhập để đặt hàng</i></p>
+                    <a href="index.php" class="btn btn-1" style="margin-left:-58px">Chọn những sách khác</a></center>
 				</div>
 			<div class="row">
 				<div class="pricedetails">
@@ -197,7 +197,7 @@ $name ="Điện thoai";
 							</tr>
 						</table>
 						<center>
-                      <a href="account.php"  class="btn btn-1">vào trang đăng nhập</a>
+                      <a href="account.php"  class="btn btn-1" style="margin-right:110px">Vào trang đăng nhập</a>
                       </center>
                    
 					</div>
