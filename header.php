@@ -8,7 +8,7 @@
 			<div class="col-md-4">
 				<form class="form-search" method="GET" action="timkiem.php">  
 					<input type="text"  class="input-medium search-query" name="txttimkiem" required>  
-					<button type="submit" name="tk" class="btn"><span class="glyphicon glyphicon-search"></span></button>  
+					<button type="submit" name="tk" class="btn" style="padding: 13px 20px;"><span class="glyphicon glyphicon-search"></span></button>  
 				</form>
 			</div>
 			<div class="col-md-4">
