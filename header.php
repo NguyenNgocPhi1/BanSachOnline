@@ -8,11 +8,11 @@
 			<div class="col-md-4">
 				<form class="form-search" method="GET" action="timkiem.php">  
 					<input type="text"  class="input-medium search-query" name="txttimkiem" required>  
-					<button type="submit" name="tk" class="btn" style="padding: 13px 20px;"><span class="glyphicon glyphicon-search"></span></button>  
+					<button type="submit" name="tk" class="btn" style="padding: 13px 20px;"><span class="glyphicon glyphicon-search" style="margin-right: 15px;top: 4px;"></span></button>  
 				</form>
 			</div>
 			<div class="col-md-4">
-				<div id="cart"><a class="btn btn-1" href="cart.php"><span class="glyphicon glyphicon-shopping-cart"></span>Giỏ hàng (<?php
+				<div id="cart"><a class="btn btn-1" href="cart.php"><span class="glyphicon glyphicon-shopping-cart" ></span>Giỏ hàng (<?php
 			$ok=1;
 			 if(isset($_SESSION['cart']))
 			 {
